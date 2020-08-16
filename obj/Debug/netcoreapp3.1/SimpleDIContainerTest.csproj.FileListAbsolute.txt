@@ -1,0 +1,13 @@
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.exe
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.deps.json
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.runtimeconfig.json
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.runtimeconfig.dev.json
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.dll
+E:\DotNetLearnTestSource\SimpleDIContainerTest\bin\Debug\netcoreapp3.1\SimpleDIContainerTest.pdb
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.AssemblyInfo.cs
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.csproj.CoreCompileInputs.cache
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.dll
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.pdb
+E:\DotNetLearnTestSource\SimpleDIContainerTest\obj\Debug\netcoreapp3.1\SimpleDIContainerTest.genruntimeconfig.cache
